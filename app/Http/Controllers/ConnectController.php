@@ -7,6 +7,6 @@ use Illuminate\Http\Request;
 class ConnectController extends Controller
 {
     public function getLogin(){
-        return 'Hola Mundo';
+        return view('connect.login');
     }
 }
