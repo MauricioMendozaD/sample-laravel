@@ -18,7 +18,6 @@
 
     <script src="https://cdn.ckeditor.com/4.5.6/standard/ckeditor.js"></script>
     <script src="{{ url('/static/js/admin.js') }}"></script>
-    <script src="/static/js/admin.js"></script>
 
     <script>
         $(document).ready(function(){
